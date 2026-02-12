@@ -1,0 +1,63 @@
+{
+  "totalItems": 26,
+  "source": {
+    "Manga": 18,
+    "Web manga": 6,
+    "Original": 2
+  },
+  "demographics": {
+    "Shounen": 13,
+    "Seinen": 7
+  },
+  "genres": {
+    "Action": 21,
+    "Adventure": 3,
+    "Supernatural": 9,
+    "Sports": 2,
+    "Fantasy": 6,
+    "Suspense": 4,
+    "Drama": 7,
+    "Award Winning": 1,
+    "Horror": 1,
+    "Sci-Fi": 1,
+    "Comedy": 2,
+    "Mystery": 2
+  },
+  "themes": {
+    "Team Sports": 2,
+    "Gore": 6,
+    "Urban Fantasy": 1,
+    "Psychological": 2,
+    "Military": 1,
+    "Martial Arts": 4,
+    "Historical": 6,
+    "Adult Cast": 4,
+    "Parody": 2,
+    "Super Power": 4,
+    "Time Travel": 2,
+    "Mythology": 4
+  },
+  "studios": {
+    "Studio Pierrot": 2,
+    "8bit": 2,
+    "MAPPA": 1,
+    "Madhouse": 3,
+    "Bones": 1,
+    "Larx Entertainment": 4,
+    "ufotable": 6,
+    "J.C.Staff": 1,
+    "LAN Studio": 2,
+    "Graphinica": 3,
+    "Yumeta Company": 3,
+    "Maru Animation": 1
+  },
+  "type": {
+    "TV": 14,
+    "ONA": 10,
+    "Movie": 2
+  },
+  "rating": {
+    "PG-13 - Teens 13 or older": 4,
+    "R - 17+ (violence & profanity)": 22
+  }
+}
