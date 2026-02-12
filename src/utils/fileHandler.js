@@ -27,6 +27,16 @@ class fileHandler{
             console.error("Error al escribir el archivo JSON:", err);
             throw err;}
     }
+
+    static async readJSON(filepath){
+        try{
+            const data = fs.readFileSync(filepath, "utf-8");
+            return JSON.parse(data);
+        }catch(err){
+            console.error("Error al leer el archivo JSON:", err);
+            throw err;
+        }
+    }
 }
 
 export default fileHandler;

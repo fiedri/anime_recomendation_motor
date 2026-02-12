@@ -36,7 +36,7 @@ class jikanService {
             
             if (animeInfo && animeInfo.data) {
                 animeInfoList.push(animeInfo);
-                await cacheService.set(animeId, animeInfo); // Guardar con ID string
+                cacheService.updateInMemory(animeId, animeInfo); // Actualizar solo en memoria
                 console.log(`[${index+1}/${longitud}] Procesado: ${anime.title}`);
             } else {
                 console.warn(`[WARN] Datos inválidos para ID ${animeId}`);
@@ -46,8 +46,12 @@ class jikanService {
             console.error(`[ERROR] Error en fetch para ID ${anime.id}:`, error.message);
         }
 
-        await Utils.sleep(2000); // Respetar Rate Limit solo si hubo fetch
+        await Utils.sleep(2000); 
     }
+
+    // Guardar en disco una sola vez al final de todo el proceso
+    await cacheService.saveToDisk();
+    
     return animeInfoList;
 }
 }
