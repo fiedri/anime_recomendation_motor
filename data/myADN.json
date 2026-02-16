@@ -1,20 +1,20 @@
 {
-  "totalItems": 26,
+  "totalItems": 27,
   "source": {
+    "Original": 3,
     "Manga": 18,
-    "Web manga": 6,
-    "Original": 2
+    "Web manga": 6
   },
   "demographics": {
     "Shounen": 13,
     "Seinen": 7
   },
   "genres": {
+    "Fantasy": 7,
     "Action": 21,
     "Adventure": 3,
     "Supernatural": 9,
     "Sports": 2,
-    "Fantasy": 6,
     "Suspense": 4,
     "Drama": 7,
     "Award Winning": 1,
@@ -24,6 +24,8 @@
     "Mystery": 2
   },
   "themes": {
+    "Anthropomorphic": 1,
+    "Isekai": 1,
     "Team Sports": 2,
     "Gore": 6,
     "Urban Fantasy": 1,
@@ -38,6 +40,7 @@
     "Mythology": 4
   },
   "studios": {
+    "Studio Chizu": 1,
     "Studio Pierrot": 2,
     "8bit": 2,
     "MAPPA": 1,
@@ -52,12 +55,12 @@
     "Maru Animation": 1
   },
   "type": {
+    "Movie": 3,
     "TV": 14,
-    "ONA": 10,
-    "Movie": 2
+    "ONA": 10
   },
   "rating": {
-    "PG-13 - Teens 13 or older": 4,
+    "PG-13 - Teens 13 or older": 5,
     "R - 17+ (violence & profanity)": 22
   }
 }

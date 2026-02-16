@@ -1,42 +1,90 @@
 [
   {
+    "titulo": "Jigokuraku",
+    "matchScore": 670.3703703703703
+  },
+  {
     "titulo": "Shingeki no Kyojin",
-    "matchScore": 657.6923076923076
+    "matchScore": 633.3333333333333
   },
   {
     "titulo": "Vinland Saga",
-    "matchScore": 642.3076923076922
+    "matchScore": 618.5185185185185
   },
   {
     "titulo": "Tokyo Ghoul",
-    "matchScore": 623.076923076923
+    "matchScore": 603.7037037037037
+  },
+  {
+    "titulo": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+    "matchScore": 581.4814814814814
   },
   {
     "titulo": "Tokyo Revengers",
-    "matchScore": 599.9999999999999
+    "matchScore": 577.7777777777777
+  },
+  {
+    "titulo": "Summertime Render",
+    "matchScore": 529.6296296296296
+  },
+  {
+    "titulo": "Black Lagoon",
+    "matchScore": 522.2222222222222
   },
   {
     "titulo": "Ore dake Level Up na Ken",
-    "matchScore": 484.61538461538464
+    "matchScore": 470.3703703703703
+  },
+  {
+    "titulo": "Goblin Slayer",
+    "matchScore": 455.5555555555555
+  },
+  {
+    "titulo": "Noblesse",
+    "matchScore": 429.6296296296296
   },
   {
     "titulo": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
-    "matchScore": 434.6153846153847
+    "matchScore": 422.22222222222223
   },
   {
-    "titulo": "Fate/Zero",
-    "matchScore": 419.2307692307693
+    "titulo": "Darker than Black: Kuro no Keiyakusha",
+    "matchScore": 422.2222222222222
+  },
+  {
+    "titulo": "Vivy: Fluorite Eye's Song",
+    "matchScore": 418.5185185185185
   },
   {
     "titulo": "Naruto",
-    "matchScore": 415.3846153846155
+    "matchScore": 414.8148148148148
+  },
+  {
+    "titulo": "Fate/Zero",
+    "matchScore": 407.4074074074074
+  },
+  {
+    "titulo": "Dr. Stone",
+    "matchScore": 288.8888888888889
   },
   {
     "titulo": "Shokugeki no Souma",
-    "matchScore": 269.2307692307692
+    "matchScore": 270.3703703703703
+  },
+  {
+    "titulo": "Bem",
+    "matchScore": 259.25925925925924
   },
   {
     "titulo": "Mob Psycho 100",
-    "matchScore": 246.15384615384613
+    "matchScore": 248.14814814814815
+  },
+  {
+    "titulo": "Quanzhi Gaoshou",
+    "matchScore": 170.37037037037038
+  },
+  {
+    "titulo": "Tokyo Godfathers",
+    "matchScore": 88.88888888888889
   }
 ]
